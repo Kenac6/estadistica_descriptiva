@@ -1,4 +1,4 @@
-# estadistica_descriptiva
+#**Estadistica_descriptiva**
 #Parte del curso de Data Science que involucra los siguiente temas:
 
 * Logística e instalación de R y RStudio y de Anaconda Navigator para Python
